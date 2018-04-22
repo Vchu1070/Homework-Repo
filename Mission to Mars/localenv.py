@@ -1,0 +1,7 @@
+google_key="AIzaSyDo0lbn_jrucINVwtalapvRQ5fg2JVgRxE"
+twitter_key="249831129-dvry3MDxhKuQmjbJs1bwOMunkRGbqQDfKKCB8yVc"
+census_key="9ebc225a64f977200f6a6ca4d4edcfde680e700e"
+consumer_key = "BNbiPxbFUXH3RW6a7uT05R9lV"
+consumer_secret = "iGeFXQ3iyl3PAOlr5ciAk8svNI0YP7POKuu5jcJUJ2SfIgkFkD"
+access_token = "249831129-dvry3MDxhKuQmjbJs1bwOMunkRGbqQDfKKCB8yVc"
+access_token_secret = "Nw5hMLNafflLUwc7T8tTo765WPm91dVf0GwK4IugdH5JM"
